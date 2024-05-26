@@ -1,0 +1,14 @@
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\bin\Debug\net6.0\alpro week 13.exe
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\bin\Debug\net6.0\alpro week 13.deps.json
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\bin\Debug\net6.0\alpro week 13.runtimeconfig.json
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\bin\Debug\net6.0\alpro week 13.dll
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\bin\Debug\net6.0\alpro week 13.pdb
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\obj\Debug\net6.0\alpro week 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\obj\Debug\net6.0\alpro week 13.AssemblyInfoInputs.cache
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\obj\Debug\net6.0\alpro week 13.AssemblyInfo.cs
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\obj\Debug\net6.0\alpro week 13.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\obj\Debug\net6.0\alpro week 13.dll
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\obj\Debug\net6.0\refint\alpro week 13.dll
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\obj\Debug\net6.0\alpro week 13.pdb
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\obj\Debug\net6.0\alpro week 13.genruntimeconfig.cache
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 13\alpro week 13\obj\Debug\net6.0\ref\alpro week 13.dll
